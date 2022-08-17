@@ -1,6 +1,6 @@
 ---
 title: Qingqin Hua 华清沁
-role: Ph.D. Student
+role: Ph.D. Student in Computer Graphics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -19,6 +19,7 @@ social:
     link: https://github.com/gcushen
 organizations:
   - name: Universität des Saarlandes
+    url: https://graphics.cg.uni-saarland.de/
 education:
   courses:
     - course: MSc in Computer Science
