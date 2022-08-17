@@ -1,77 +1,31 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Qingqin Hua 华清沁
+role: Ph.D. Student
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
+  - Light Transport Simulation
+  - Monte Carlo Methods
+  - Spectral Rendering
+social: []
+organizations:
+  - name: Universität des Saarlandes
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    - course: M.Sc. in Computer Science
+      institution: Faculty of Mathematics and Physics, Charles University
+      year: ""
+    - course: B.Eng. in Digital Media Technology
+      institution: School of Digital Media, Jiangnan University
+      year: ""
+email: qingqhua@outlook.com
+superuser: true
 highlight_name: true
 ---
+I am a Ph.D. student at [Computer Graphics Lab](https://graphics.cg.uni-saarland.de/) in [Saarland Univerity](https://saarland-informatics-campus.de/en/), Germany. My reseach focus is physically-based rendering. I am currently supervised by [Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html) and [Prof. Philipp Slusallek](https://graphics.cg.uni-saarland.de/people/slusallek.html).  
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Before moving to Saarbrucken, I obtained my M.Sc. at [Computer Graphics Group, Charles University](https://cgg.mff.cuni.cz/), under supervison of [Dr. Alban Fichet](https://afichet.github.io/) and [Prof. Alexander Wilkie](https://cgg.mff.cuni.cz/members/wilkie/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[Profile](https://graphics.cg.uni-saarland.de/people/hua.html) at university webpage  
+Contact: [hua@cg.uni-saarland.de](mailto:hua@cg.uni-saarland.de)
