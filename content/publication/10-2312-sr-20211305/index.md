@@ -1,13 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: A Compact Representation for Fluorescent Spectral Data
 subtitle: ''
 summary: 'Eurographics Symposium on Rendering (EGSR)'
 authors:
-- Qingqin Hua
-- Alban Fichet
-- Alexander Wilkie
+  - Qingqin Hua
+  - Alban Fichet
+  - Alexander Wilkie
+doi: 10.2312/sr.20211305
+publication: "*Eurographics Symposium on Rendering - DL-only Track*"
+abstract: ""
+draft: false
+featured: false
 tags: []
 categories: []
 date: '2021-06-01'
