@@ -35,4 +35,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-Contact: [hua@cg.uni-saarland.de](hua@cg.uni-saarland.de)
+Contact: [hua@cg.uni-saarland.de](mailto:hua@cg.uni-saarland.de)
