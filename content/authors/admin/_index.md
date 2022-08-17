@@ -4,7 +4,8 @@ role: Ph.D. Student in Computer Graphics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - LightTransport
+  - Light Transport Simulation
+  - ""
 social:
   - icon: twitter
     icon_pack: fab
