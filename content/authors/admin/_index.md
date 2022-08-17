@@ -27,8 +27,8 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BEng in Digital Media Technoloty
+      institution: School of Digital Media, Jiangnan University
       year: 2008
 email: ""
 superuser: true
