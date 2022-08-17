@@ -21,16 +21,13 @@ organizations:
   - name: Universität des Saarlandes
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BEng in Digital Media Technoloty
+    - course: MSc in Computer Science
+      institution: Charles University
+      year: ""
+    - course: BEng in Digital Media Technology
       institution: School of Digital Media, Jiangnan University
-      year: 2008
-email: ""
+      year: ""
+email: qingqhua@outlook.com
 superuser: true
 highlight_name: true
 ---
