@@ -29,6 +29,7 @@ url_video: ""
 title: An example conference paper
 doi: ""
 featured: true
+draft: true
 tags: []
 projects:
   - example

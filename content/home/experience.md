@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Universität des Saarlandes
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.uni-saarland.de/start.html'
+    company_logo: 
     location: Saarbrucken, Germany
     date_start: '2021-10-01'
     date_end: ''
@@ -34,10 +34,10 @@ experience:
   - title: Research and Development Engineer
     company: MORE VFX
     company_url: 'http://www.morevfx.com/en/'
-    company_logo: org-x
+    company_logo: 
     location: Beijing, China
     date_start: '2017-10-31'
-    date_end: '2018-3-1'
+    date_end: '2018-03-01'
     description: 
 
 design:

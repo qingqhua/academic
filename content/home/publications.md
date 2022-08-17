@@ -20,10 +20,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: citation
+  view: 2
   columns: "2"
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
