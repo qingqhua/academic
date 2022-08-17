@@ -22,10 +22,10 @@ organizations:
     url: https://graphics.cg.uni-saarland.de/
 education:
   courses:
-    - course: MSc in Computer Science
+    - course: M.Sc. in Computer Science
       institution: Charles University
       year: ""
-    - course: BEng in Digital Media Technology
+    - course: B.Eng. in Digital Media Technology
       institution: School of Digital Media, Jiangnan University
       year: ""
 email: qingqhua@outlook.com
