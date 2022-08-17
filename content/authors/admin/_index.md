@@ -1,8 +1,7 @@
 ---
 title: Qingqin Hua 华清沁
 role: Ph.D. Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 interests:
   - Light Transport Simulation
   - Monte Carlo Methods
@@ -19,7 +18,7 @@ education:
     - course: B.Eng. in Digital Media Technology
       institution: School of Digital Media, Jiangnan University
       year: ""
-email: qingqhua@outlook.com
+email: 
 superuser: true
 highlight_name: true
 ---
