@@ -23,7 +23,7 @@ email: qingqhua@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. student at [Computer Graphics Lab](https://graphics.cg.uni-saarland.de/) in [Saarland Univerity](https://saarland-informatics-campus.de/en/), Germany. My foucus is physically-based rendering. I am currently supervised by [Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html) and [Prof. Philipp Slusallek](https://graphics.cg.uni-saarland.de/people/slusallek.html).  
+I am a Ph.D. student at [Computer Graphics Lab](https://graphics.cg.uni-saarland.de/) in [Saarland Univerity](https://saarland-informatics-campus.de/en/), Germany. My reseach focus is physically-based rendering. I am currently supervised by [Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html) and [Prof. Philipp Slusallek](https://graphics.cg.uni-saarland.de/people/slusallek.html).  
 
 Before moving to Saarbrucken, I obtained my M.Sc. at [Computer Graphics Group, Charles University](https://cgg.mff.cuni.cz/), under supervison of [Dr. Alban Fichet](https://afichet.github.io/) and [Prof. Alexander Wilkie](https://cgg.mff.cuni.cz/members/wilkie/). 
 
