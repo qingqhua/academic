@@ -4,9 +4,7 @@ role: Ph.D. Student in Computer Graphics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - LightTransport
 social:
   - icon: twitter
     icon_pack: fab
@@ -36,6 +34,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-Contact: [](mailto:admin@cloudhadoop.com)\[qingqhua@outlook.com](mailto:qingqhua@outlook.com)
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Contact: [hua@cg.uni-saarland.de](hua@cg.uni-saarland.de)
