@@ -31,8 +31,6 @@ email: qingqhua@outlook.com
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. student at Computer Graphics Lab in Saarland Univerity, Germany. I am currently under supervision of Pascal Grittman and Prof. Philipp Slusalek. Before moving to Saarbrucken, I obtained my master in Computer Graphics Lab, Charles University, under supervison of Dr. Alban Fichet and Prof. Alex Wilikie. 
 
 Contact: [hua@cg.uni-saarland.de](mailto:hua@cg.uni-saarland.de)
