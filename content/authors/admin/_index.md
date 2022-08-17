@@ -1,6 +1,6 @@
 ---
 title: Qingqin Hua 华清沁
-role: Ph.D. Student in Computer Graphics
+role: Ph.D. Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
