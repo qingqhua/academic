@@ -27,5 +27,5 @@ I am a Ph.D. student at [Computer Graphics Lab](https://graphics.cg.uni-saarland
 
 Before moving to Saarbrucken, I obtained my M.Sc. at [Computer Graphics Group, Charles University](https://cgg.mff.cuni.cz/), under supervison of [Dr. Alban Fichet](https://afichet.github.io/) and [Prof. Alexander Wilkie](https://cgg.mff.cuni.cz/members/wilkie/). 
 
-[Profile](https://graphics.cg.uni-saarland.de/people/hua.html) at university webpage  
+[Profile](https://graphics.cg.uni-saarland.de/people/hua.html) at group webpage  
 Contact: [hua@cg.uni-saarland.de](mailto:hua@cg.uni-saarland.de)
