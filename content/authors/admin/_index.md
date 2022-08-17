@@ -23,7 +23,7 @@ organizations:
 education:
   courses:
     - course: M.Sc. in Computer Science
-      institution: Charles University
+      institution: Faculty of Mathematics and Physics, Charles University
       year: ""
     - course: B.Eng. in Digital Media Technology
       institution: School of Digital Media, Jiangnan University
@@ -32,6 +32,8 @@ email: qingqhua@outlook.com
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. student at Computer Graphics Lab in Saarland Univerity, Germany. I am currently under supervision of Pascal Grittman and Prof. Philipp Slusalek. Before moving to Saarbrucken, I obtained my M.Sc. in Computer Graphics Lab, Charles University, under supervison of Dr. Alban Fichet and Prof. Alex Wilikie. 
+I am a Ph.D. student at [Computer Graphics Lab](https://graphics.cg.uni-saarland.de/) in [Saarland Univerity](https://saarland-informatics-campus.de/en/), Germany. I am currently supervised by Pascal Grittmann and Prof. Dr.-Ing. Philipp Slusallek.  
+
+Before moving to Saarbrucken, I obtained my M.Sc. at [Computer Graphics Group, Charles University](https://cgg.mff.cuni.cz/), under supervison of [Dr. Alban Fichet](https://afichet.github.io/) and [Prof. Alexander Wilkie](https://cgg.mff.cuni.cz/members/wilkie/). 
 
 Contact: [hua@cg.uni-saarland.de](mailto:hua@cg.uni-saarland.de)
