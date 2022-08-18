@@ -47,5 +47,5 @@ fluorescent materials are present in a scene, an in particular for textures with
 publication: '*Eurographics Symposium on Rendering - DL-only Track*'
 url_pdf: "https://diglib.eg.org/bitstream/handle/10.2312/sr20211305/225-234.pdf?sequence=1&isAllowed=y"
 url_code: "https://gitlab.com/huaq_/compact-representation-fluorescence"
-url_slide: "EGSR2021.pdf"
+url_slides: "https://github.com/qingqhua/academic/raw/main/content/publication/10-2312-sr-20211305/EGSR2021.pdf"
 ---
