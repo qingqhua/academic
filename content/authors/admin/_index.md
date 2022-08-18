@@ -1,12 +1,13 @@
 ---
-title: Qingqin Hua 华清沁
-role: Ph.D. Student
+title: Qingqin Hua 华清沁 
+role: Ph.D. Student 
 bio: 
 interests:
   - Light Transport Simulation
   - Monte Carlo Methods
   - Spectral Rendering
-social: []
+social:   
+
 organizations:
   - name: Universität des Saarlandes
     url: ""
@@ -27,4 +28,4 @@ I am a Ph.D. student at [Computer Graphics Lab](https://graphics.cg.uni-saarland
 Before moving to Saarbrucken, I obtained my M.Sc. at [Computer Graphics Group, Charles University](https://cgg.mff.cuni.cz/), under supervison of [Dr. Alban Fichet](https://afichet.github.io/) and [Prof. Alexander Wilkie](https://cgg.mff.cuni.cz/members/wilkie/). 
 
 [Profile](https://graphics.cg.uni-saarland.de/people/hua.html) at university webpage  
-Contact: [hua@cg.uni-saarland.de](mailto:hua@cg.uni-saarland.de)
+Contact: [hua@cg.uni-saarland.de](mailto:hua@cg.uni-saarland.de) & <a href="https://github.com/qingqhua"> <i class="fa-brands fa-github"></i></a>
