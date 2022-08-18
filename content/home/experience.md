@@ -39,7 +39,7 @@ experience:
     date_start: '2017-10-31'
     date_end: '2018-03-01'
     description: 
-    
+
   - title: Research Intern
     company: JAIST MIYATA LAB
     company_url: 'https://www.jaist.ac.jp/~miyata/LabHP/research.html'

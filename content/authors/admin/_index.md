@@ -18,7 +18,7 @@ education:
     - course: B.Eng. in Digital Media Technology
       institution: School of Digital Media, Jiangnan University
       year: ""
-email: 
+email: hua@cg.uni-saarland.de
 superuser: true
 highlight_name: true
 ---
