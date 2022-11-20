@@ -37,5 +37,5 @@ publication_types:
 - '1'
 abstract: 'We propose a technique for efficient storage and importance sampling of fluorescent spectral data. Fluorescence is fully described by a re-radiation matrix, which for a given input wavelength indicates how much energy is re-emitted at other wavelengths.However, such representation has a considerable memory footprint. To significantly reduce memory requirements, we proposethe use of Gaussian mixture models for the representation of re-radiation matrices. Instead of the full-resolution matrix, wework with a set of Gaussian parameters that also allow direct importance sampling. Furthermore, if accuracy is of concern,a re-radiation matrix can be used jointly with efficient importance sampling provided by the Gaussian mixture. In this paper,we present our pipeline for efficient storage of bispectral data and provide its extensive evaluation on a large set of bispectralmeasurements. We show that our method is robust and colour accurate even with its comparably minor memory requirementsand that it can be seamlessly integrated into a standard Monte Carlo path tracer.'
 publication: '*Computer Graphics Forum*'
-url_pdf: "isfluo.pdf"
+url_pdf: "https://github.com/qingqhua/academic/raw/main/content/publication/hua-2022-efficient/isfluo.pdf"
 ---

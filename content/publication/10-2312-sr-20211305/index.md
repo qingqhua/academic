@@ -1,7 +1,7 @@
 ---
-title: Efficient Storage and Importance Sampling for Fluorescent Reflectance
+title: A Compact Representation for Fluorescent Spectral Data
 subtitle: ''
-summary: 'Computer Graphics Forum'
+summary: 'Eurographics Symposium on Rendering (EGSR)'
 authors:
   - Qingqin Hua
   - Alban Fichet
